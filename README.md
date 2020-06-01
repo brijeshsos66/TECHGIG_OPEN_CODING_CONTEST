@@ -4,6 +4,8 @@ This repository contains the problems as well as their accepted solution asked i
 => SOLVED PROBLEMS
 
   ![](images/solvedprob.JPG)
+  
+  ![](images/numeric.JPG)
 
 
 => C++ SKILL CERTIFICATE
